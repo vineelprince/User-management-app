@@ -18,7 +18,7 @@ const allowedOrigins = [
   "http://localhost:5173",
 
   // Your Vercel frontend URL
-  //"https://user-management-app-deploy.vercel.app",
+  "https://user-management-app-delpoy.vercel.app",
 ];
 
 // CORS middleware
