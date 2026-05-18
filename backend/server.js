@@ -17,8 +17,8 @@ const PORT = process.env.PORT || 4000;
 const allowedOrigins = [
   "http://localhost:5173",
 
-  // Your Vercel frontend URL
-  "https://user-management-app-delpoy.vercel.app",
+  // Your frontend URL
+  "https://user-management-app-frontend-dima.onrender.com",
 ];
 
 // CORS middleware
